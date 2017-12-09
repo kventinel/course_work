@@ -1,1 +1,1 @@
-# course_work
+# PROTEIN STRUCTURE MODELING
