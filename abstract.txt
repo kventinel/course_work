@@ -1,0 +1,5 @@
+f_c(r_{i, j}) = left lbrace{ stack{1 over 2 cos({%pi r_{i, j}} over R_c), 0 < r_{i, j} < R_c #
+		          0, r_{i, j} >= R_c} } right none
+
+K_{i, j}^a = left lbrace{ stack{1, Z_{i, j} = N_a #
+		          0, иначе} } right none
